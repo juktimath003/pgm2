@@ -1,4 +1,3 @@
-package pgm2;
 public class add {
     public static void main(String[] args) {        int num1 = 15;
         int num2 = 25;
